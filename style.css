@@ -1,0 +1,16 @@
+section img {
+    height: 100px;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+body {
+    text-align: center;
+}
+
+.HD {
+    margin-left: 150px;
+    margin-right: 150px;
+}
